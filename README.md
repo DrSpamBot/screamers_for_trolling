@@ -1,5 +1,5 @@
 ## Description
-Screamers plein écran pour troller. Inspiration: Google.exe ([https://gamejolt.com/games/google-horror-page/206231])
+Screamers plein écran pour troller. Inspiration: Google.exe (https://gamejolt.com/games/google-horror-page/206231)
 
 ## Modes
 * **classic:** screamer plein écran classique
